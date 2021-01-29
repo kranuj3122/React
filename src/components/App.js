@@ -6,7 +6,9 @@ import Name from './Name';
 const App = () => {
   return (
     <div id="main">
+  
       <Description />
+      <Name />
       <Name />
     </div>
   )
